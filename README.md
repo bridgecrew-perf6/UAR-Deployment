@@ -57,7 +57,7 @@ How to perform the User Access Reviews?
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/167304661-eecb42a0-31df-42a0-b588-e9be205cd1b7.png" height="45%" width="45%" alt="UAR"/>
+<img src="https://user-images.githubusercontent.com/104326475/167304661-eecb42a0-31df-42a0-b588-e9be205cd1b7.png" height="145%" width="145%" alt="UAR"/>
   
 <p/>
 
@@ -65,7 +65,7 @@ Below, IT admins can approve or deny acccess
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/167304680-db2a48a1-e0cd-4553-8861-e47fc51ebada.png" height="45%" width="45%" alt="UAR"/>
+<img src="https://user-images.githubusercontent.com/104326475/167304680-db2a48a1-e0cd-4553-8861-e47fc51ebada.png" height="145%" width="145%" alt="UAR"/>
   
 <p/>
 
@@ -73,7 +73,7 @@ Below, IT admins can biew the overview of the UAR that was created. Since User A
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/167304948-43639e19-1c5c-47a0-8f41-c1ed347c57e4.png" height="45%" width="45%" alt="UAR"/>
+<img src="https://user-images.githubusercontent.com/104326475/167304948-43639e19-1c5c-47a0-8f41-c1ed347c57e4.png" height="145%" width="145%" alt="UAR"/>
   
 <p/>
 
@@ -81,7 +81,7 @@ User C, who was denied access to the group during the UAR, is removed from the g
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/167305066-3a9ad560-a974-480b-a2e2-b8eea6b33d9b.png" height="105%" width="105%" alt="UAR"/>
+<img src="https://user-images.githubusercontent.com/104326475/167305066-3a9ad560-a974-480b-a2e2-b8eea6b33d9b.png" height="145%" width="145%" alt="UAR"/>
   
 <p/>
 
